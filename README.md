@@ -1,5 +1,5 @@
 ### xiAo-Ju 
-[![Gmail Badge](https://img.shields.io/badge/-xiaoju.foxmial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xiaoju.foxmial@gmail.com)](mailto:xiaoju.foxmial@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-xiaoju.foxmail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xiaoju.foxmail@gmail.com)](mailto:xiaoju.foxmail@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
