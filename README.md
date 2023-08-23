@@ -10,5 +10,4 @@
 -  **Organisation :** 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![github stats](https://github-readme-stats.vercel.app/api?username=huangboju&show_icons=true)
+![huangboju's GitHub stats](https://github-readme-stats.vercel.app/api?username=huangboju&show_icons=true&theme=transparent)
