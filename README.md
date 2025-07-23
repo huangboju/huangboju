@@ -11,4 +11,4 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![huangboju's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=huangboju&show_icons=true&theme=transparent)
+![huangboju's GitHub stats](https://github-readme-stats.vercel.app/api?username=huangboju&include_all_commits=true)
